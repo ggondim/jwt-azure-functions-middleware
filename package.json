@@ -1,0 +1,27 @@
+{
+  "name": "jwt-azure-functions-middleware",
+  "version": "1.0.1",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ggondim/jwt-azure-functions-middleware.git"
+  },
+  "keywords": [
+    "azure",
+    "functions",
+    "azure-functions",
+    "middleware"
+  ],
+  "author": {
+    "name": "Gustavo Gondim",
+    "url": "https://github.com/ggondim"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {}
+}
